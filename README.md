@@ -3,7 +3,7 @@
 
 Kodlama dili C#, veritabanı MySql kullanıldı.
 
-#### Bu projedeki hedefimiz, hastanelerde ki işlemleri kolaylaştırmak ve hızlandırmaktır. 
+#### Bu projedeki hedefimiz, hastanelerde işlemleri kolaylaştırmak ve hızlandırmaktır. 
 Bu yazılım hastanelerde ortak veritabanı üzerinden işlem 
 hareketliliği takibi sağlamayı amaçlar. Hastane otomasyonları, hastanın kaydı 
 alınmasından itibaren tedavi süreci sonlanana kadar ki bilgileri kayıt altına 
