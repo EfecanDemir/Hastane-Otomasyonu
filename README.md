@@ -14,31 +14,28 @@ ulaşılabilirlik durumunu hızlandırmak amaçlanmıştır.
 ## Giriş Bölümü
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane1.jpg)
 
-## Video/Müzik Ekranı
+## Kullanıcı Kayıt Ekranı
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane2.jpg)
 
-## URL ile Video Oynatma/İndirme Bölümü
+## Ana Sayfa Ekranı
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane3.jpg)
 
-## Radyo Ekranı
+![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastanebolum.jpg)
+
+## Randevu Ekranı
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane4.jpg)
 
-## Ekolayzer Bölümü
+## Hasta İşlem Bölümü
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane5.jpg)
 
-## Video/Müzik Ekranı
+## Vezne (Nakit, döviz, kredi kart ödeme seçenekleri) Ekranı
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane6.jpg)
 
-## URL ile Video Oynatma/İndirme Bölümü
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane7.jpg)
 
-## Radyo Ekranı
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane8.jpg)
 
-## Ekolayzer Bölümü
 ![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastane9.jpg)
 
 
-## Ekolayzer Bölümü
-![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/hastanebolum.jpg)
 
